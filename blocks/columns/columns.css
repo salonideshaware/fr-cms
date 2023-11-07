@@ -27,6 +27,10 @@
   }
 
   .columns > div > div {
+    text-align: center;
+}
+
+  .columns > div > div {
     flex: 1;
     order: unset;
   }
@@ -41,4 +45,8 @@
     width: 50%;
     text-align: center;
     padding: 0 20px 0 20px;
+}
+
+.columns.info-channel > div > div{
+    text-align: center;
 }
