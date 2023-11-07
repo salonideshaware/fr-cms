@@ -39,6 +39,7 @@
 .columns.cmp-datacardlist.info-channel.block.columns-1-cols {
     margin: 20px 40px 20px 40px;
     padding: 0 20px;
+    background: aliceblue;
 }
 
 .info-channel picture img {
@@ -49,4 +50,8 @@
 
 .columns.info-channel > div > div{
     text-align: center;
+    padding: 24px;
+    background-color: white;
+    border-radius: 8px;
+    height: 100%;
 }
