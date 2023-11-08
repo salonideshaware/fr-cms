@@ -175,3 +175,9 @@ main .hero.cmp-points {
 .cards.custom-cards.block {
     background: #0072d8;
 }
+
+h1#explore-investment-products-and-services {
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
