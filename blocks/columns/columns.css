@@ -58,9 +58,13 @@
 
 .columns.cmp-cardinfo.carousel {
     width: 35%;
-    /* height: 161px; */
     padding: 20px;
     margin: 20px;
     background: aliceblue;
     border-radius: 20px 20px 20px 20px;
+}
+
+h1#products-and-services {
+    padding-left: 10%;
+    margin-bottom: 0;
 }
