@@ -145,3 +145,29 @@ main .hero.cmp-points {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+.default-content-wrapper {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.cards.custom-cards > ul > li img {
+    width: 214px;
+    height: 214px;
+}
+
+.cards.custom-cards.block div {
+    text-align: center;
+}
+
+.custom-cards strong {
+    font-size: 24px;
+}
+
+.custom-cards p {
+    font-size: 18px;
+}
+
+.cards.custom-cards.block {
+    padding: 0 100px 100px 100px;
+}
