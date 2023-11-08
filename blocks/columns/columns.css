@@ -171,3 +171,7 @@ main .hero.cmp-points {
 .cards.custom-cards.block {
     padding: 0 100px 100px 100px;
 }
+
+.cards.custom-cards.block {
+    background: #0072d8;
+}
