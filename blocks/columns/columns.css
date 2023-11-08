@@ -105,6 +105,6 @@ h2#contact-us {
     margin-bottom: 30px;
 }
 
-.cmp-points div{
+.columns.cmp-singlecard.cmp-points.block.columns-1-cols div{
     text-align: left;
 }
