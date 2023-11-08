@@ -84,6 +84,6 @@ h1#products-and-services {
     align-items: baseline;
 }
 
-h2#contact-us-1 {
+.contact-link h2#contact-us-1 {
     float: left;
 }
