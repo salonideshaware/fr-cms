@@ -121,7 +121,10 @@ main .hero.cmp-points {
 .cmp-points u {
     color: rgb(0, 114, 216);
     line-height: 27px;
-    text-decoration: underline;
+}
+
+.cmp-points a:any-link{
+      text-decoration: underline !important;
 }
 
 .cmp-points li {
