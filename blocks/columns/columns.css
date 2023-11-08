@@ -69,7 +69,17 @@ h1#products-and-services {
     margin-bottom: 0;
 }
 
+.contact-link p {
+    display: inline-block;
+    text-align: center;
+    margin-top: 0;
+}
+
 .contact-link img {
     width: 56px;
     height: 56px;
+}
+
+.contact-link > div {
+    align-items: baseline;
 }
