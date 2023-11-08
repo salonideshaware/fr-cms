@@ -68,3 +68,8 @@ h1#products-and-services {
     padding-left: 10%;
     margin-bottom: 0;
 }
+
+.contact-link img {
+    width: 56px;
+    height: 56px;
+}
