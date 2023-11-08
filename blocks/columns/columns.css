@@ -104,3 +104,7 @@ h2#contact-us {
 .contact-link > div > div {
     margin-bottom: 30px;
 }
+
+.cmp-points div{
+    text-align: left;
+}
