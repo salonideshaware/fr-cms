@@ -76,8 +76,8 @@ h1#products-and-services {
 }
 
 .contact-link img {
-    width: 56px;
-    height: 56px;
+    width: 45px;
+    height: 45px;
 }
 
 .contact-link > div {
@@ -86,4 +86,21 @@ h1#products-and-services {
 
 .contact-link h2#contact-us-1 {
     float: left;
+}
+
+.contact-link p:nth-child(2) {
+    position: relative;
+    margin-bottom: 23px;
+    font-size: 27px;
+    font-weight: 600;
+    top: -15px;
+    font-family: sans-serif;
+}
+
+.contact-link p:last-child {
+    font-size: 18px;
+}
+
+.contact-link > div > div {
+    margin-bottom: 30px;
 }
