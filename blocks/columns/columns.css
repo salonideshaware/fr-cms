@@ -83,3 +83,7 @@ h1#products-and-services {
 .contact-link > div {
     align-items: baseline;
 }
+
+h2#contact-us-1 {
+    float: left;
+}
