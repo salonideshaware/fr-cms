@@ -117,3 +117,13 @@ main .hero.cmp-points {
     padding-right: 100px;
     background: aliceblue;
 }
+
+.cmp-points u {
+    color: rgb(0, 114, 216);
+    line-height: 27px;
+    text-decoration: underline;
+}
+
+.cmp-points li {
+    margin-bottom: 16px;
+}
