@@ -108,3 +108,12 @@ h2#contact-us {
 .columns.cmp-singlecard.cmp-points.block.columns-1-cols div{
     text-align: left;
 }
+
+main .hero.cmp-points {
+    position: relative;
+    padding: 32px;
+    min-height: 300px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background: aliceblue;
+}
