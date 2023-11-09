@@ -70,3 +70,7 @@ main .carousel-buttons button.selected {
 main .carousel-image img {
     float: right;
 }
+
+.hero.block {
+    display: none;
+}
