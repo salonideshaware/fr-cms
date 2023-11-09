@@ -109,3 +109,11 @@ main .carousel-image img {
     margin-right: 29px;
     height: 200px;
 }
+
+.quickinfo-card .carousel-image, .quickinfo-card .carousel-text {
+    padding: 20px 30px 20px 30px;
+    border-radius: 20px 20px 20px 20px;
+    background: white;
+    margin-right: 29px;
+    height: 200px;
+}
