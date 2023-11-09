@@ -97,3 +97,7 @@ main .carousel-image img {
 .quickflash-card .carousel-image, .quickflash-card .carousel-text {
     padding: 20px;
 }
+
+.section.carousel-container.hero-container.columns-container {
+    background: transparent linear-gradient(180deg, #F6F6F6 0%, #E5F5FF 100%);
+}
