@@ -66,3 +66,7 @@ main .carousel-buttons button {
 main .carousel-buttons button.selected {
   background-color: var(--link-color);
 }
+
+main .carousel-image img {
+    float: right;
+}
