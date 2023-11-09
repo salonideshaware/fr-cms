@@ -83,3 +83,7 @@ main .carousel-image img {
 .carousel-text {
     width: 50%;
 }
+
+.carousel-wrapper{
+  padding: 75px 75px 0 75px;
+}
