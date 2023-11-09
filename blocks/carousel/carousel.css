@@ -93,3 +93,7 @@ main .carousel-image img {
     font-weight: 300;
     color: #4b4b4b;
 }
+
+.quickflash-card .carousel-image, .quickflash-card .carousel-text {
+    padding: 20px;
+}
