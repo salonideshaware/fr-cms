@@ -87,3 +87,9 @@ main .carousel-image img {
 .carousel-wrapper{
   padding: 75px 75px 0 75px;
 }
+
+.carousel-text h2:not(first-child) {
+    font-size: 20px;
+    font-weight: 300;
+    color: #4b4b4b;
+}
