@@ -267,3 +267,7 @@ header nav .nav-sections > ul > li[aria-expanded="true"] > ul > li:hover{
 header nav .nav-tools {
   grid-area: tools;
 }
+
+header nav .nav-brand img:nth-child(1) {
+    display: none !important;
+}
