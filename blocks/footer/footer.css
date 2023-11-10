@@ -23,5 +23,22 @@ footer .footer p {
 }
 
   .footer-block div div:first-child {
-    width: 50%;
+    width: 35%;
+    flex: auto;
+}
+
+footer .footer-block {
+    width: 100%;
+    padding: 20px 0 0 20px;
+    margin: auto;
+}
+
+.footer-block div div {
+    text-align: left;
+    line-height: 2rem;
+}
+
+.footer-block img {
+    width: 100px;
+    height: 50px;
 }
