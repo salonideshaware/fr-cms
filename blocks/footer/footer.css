@@ -10,10 +10,6 @@ footer .footer {
 
 footer .footer p {
   margin: 0;
-
-.footer-block p {
-    text-align: left;
-    line-height: 35px;
 }
 
 .footer-block div div:first-child {
@@ -32,8 +28,8 @@ footer .footer-block {
 }
 
 .footer-block img {
-    width: 100px;
-    height: 50px;
+     width: 75px;
+    height: 30px;
 }
 
   .columns.footer-block p {
@@ -42,16 +38,11 @@ footer .footer-block {
     font-size: 1rem;
 }
 
-  .columns.footer-block img {
-    width: 75px;
-    height: 30px;
-}
-
 .footer-block a {
     color: #fff;
 }
 
-  .columns.footer-block > div > div {
-    flex: auto;
+.columns.footer-block > div > div {
+    flex: auto !important;
 }
 
