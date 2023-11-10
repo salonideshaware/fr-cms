@@ -237,7 +237,7 @@ header nav .nav-sections ul > li > ul > li {
     left: -1em;
     width: 200px;
     margin-top: 12px;
-    background-color: var(--highlight-background-color);
+    background-color: #fff;
     white-space: initial;
   }
 
