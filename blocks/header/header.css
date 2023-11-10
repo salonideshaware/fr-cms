@@ -1,6 +1,6 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: aliceblue;
+  background-color: #e5f5ff;
   width: 100%;
   z-index: 2;
   position: fixed;
@@ -112,17 +112,6 @@ header nav[aria-expanded="false"] .nav-hamburger-icon::after {
 
 header nav[aria-expanded="true"] .nav-hamburger-icon {
   height: 22px;
-}
-
-header nav[aria-expanded="true"] .nav-hamburger-icon::before,
-header nav[aria-expanded="true"] .nav-hamburger-icon::after {
-  top: 3px;
-  left: 1px;
-  transform: rotate(45deg);
-  transform-origin: 2px 1px;
-  width: 24px;
-  height: 2px;
-  border-radius: 2px;
 }
 
 header nav[aria-expanded="true"] .nav-hamburger-icon::after {
@@ -248,7 +237,6 @@ header nav .nav-sections ul > li > ul > li {
     left: -1em;
     width: 200px;
     margin-top: 12px;
-    padding: 1em;
     background-color: var(--highlight-background-color);
     white-space: initial;
   }
@@ -266,8 +254,13 @@ header nav .nav-sections ul > li > ul > li {
   }
 
   header nav .nav-sections > ul > li > ul > li {
-    padding: 8px 0;
+    padding: 13px 24px 13px 8px;
   }
+}
+
+header nav .nav-sections > ul > li > ul > li :focus {
+    background: #e5f5ff;
+    font-weight: 900;
 }
 
 /* tools */
