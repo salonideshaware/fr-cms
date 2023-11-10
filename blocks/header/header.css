@@ -193,17 +193,6 @@ header nav .nav-sections ul > li > ul > li {
     cursor: pointer;
   }
   
-  header nav .nav-sections .nav-drop::after{
-    content:'';
-    width: 0.8rem;
-    height: 0.5rem;
-    background: url('https://api.iconify.design/fe/arrow-down.svg?color=%238b6662') no-repeat center center / contain;
-    position: absolute;
-    display: block;
-    top:50%;
-    right: -11px;
-    transform: translateY(-50%)
-  }
 
   header nav .nav-sections .nav-drop::after {
     content: '';
