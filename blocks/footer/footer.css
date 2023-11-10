@@ -11,4 +11,13 @@ footer .footer {
 
 footer .footer p {
   margin: 0;
+
+.footer-block p {
+    text-align: left;
+    line-height: 35px;
+}
+
+.footer.block {
+    max-width: 100%;
+    padding: 0 20px 0 20px;
 }
