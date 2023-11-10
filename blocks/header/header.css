@@ -203,13 +203,13 @@ header nav .nav-sections ul > li > ul > li {
     transform: rotate(0deg);
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
-    border-top: 8px solid #737373;
+    border-top: 8px solid #919191;
   }
 
   header nav .nav-sections .nav-drop[aria-expanded="true"]::after {
     top: unset;
-    bottom: .5em;
-    transform: rotate(315deg);
+    bottom: .7em;
+    transform: rotate(180deg);
   }
 
   header nav .nav-sections ul {
