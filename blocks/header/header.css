@@ -258,7 +258,7 @@ header nav .nav-sections ul > li > ul > li {
   }
 }
 
-header nav .nav-sections > ul > li > ul > li :focus {
+header nav .nav-sections > ul > li[aria-expanded="true"] > ul > li {
     background: #e5f5ff;
     font-weight: 900;
 }
