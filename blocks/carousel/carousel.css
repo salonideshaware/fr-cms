@@ -113,3 +113,7 @@ main .carousel-image img {
     margin-right: 29px;
     height: 260px;
 }
+
+.carousel.quickflash-card.block div {
+    width: 50%;
+}
