@@ -137,5 +137,5 @@ main .carousel-image img {
 }
 
 .columns.cmp-datacardlist.info-channel > div > div{
-    background: transparent linear-gradient(180deg, #F6F6F6 0%, #E5F5FF 100%);
+    background: transparent linear-gradient(180deg, #F6F6F6 0%, #E5F5FF 100%) !important;
 }
