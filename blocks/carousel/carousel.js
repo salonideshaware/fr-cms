@@ -21,6 +21,7 @@ export default function decorate(block) {
   const li = document.createElement('div');
       const taskList = document.querySelector('.carousel-image');
       taskList.appendChild(li);
+  addBlock();
 }
 
 function addBlock(){
