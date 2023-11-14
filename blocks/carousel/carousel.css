@@ -130,3 +130,8 @@ main .carousel-image img {
     background: #fff;
     padding: 20px 30px 20px 30px;
 }
+
+.carousel.quickflash-card.block div {
+    width: 50%;
+    margin: 20px;
+}
