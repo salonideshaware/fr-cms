@@ -20,4 +20,8 @@ export default function decorate(block) {
   block.parentElement.append(buttons);
 }
 
-$('.carousel.quickflash-card.block div div p:first-child').appendChild(node);
+function addBlock(){
+      const li = document.createElement('div');
+      const taskList = document.querySelector('.quickflash-card div div');
+      taskList.appendChild(li);
+}
