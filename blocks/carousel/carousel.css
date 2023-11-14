@@ -180,3 +180,8 @@ h2#loan-calculator {
 .quickflash-card p:last-child {
     font-size: 18px !important;
 }
+
+.carousel-image:hover, .carousel:text:hover {
+    background: #0072d8
+    color: #fff;
+}
