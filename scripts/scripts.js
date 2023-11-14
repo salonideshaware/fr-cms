@@ -133,3 +133,10 @@ async function loadPage() {
 }
 
 loadPage();
+
+document.addEventListener('DOMContentLoaded', () => {
+      const li = document.createElement('div');
+      const taskList = document.querySelector('.carousel-image');
+      taskList.appendChild(li);
+});
+
