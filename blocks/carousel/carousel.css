@@ -125,3 +125,8 @@ main .carousel-image img {
 .quickflash-card .carousel-image, .quickflash-card .carousel-text{
   background: #fff;
 }
+
+.quickflash-card div div {
+    background: #fff;
+    padding: 20px 30px 20px 30px;
+}
