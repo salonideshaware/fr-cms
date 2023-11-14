@@ -19,9 +19,3 @@ export default function decorate(block) {
   });
   block.parentElement.append(buttons);
 }
-
-document.addEventListener('DOMContentLoaded', () => {
-      const li = document.createElement('div');
-      const taskList = document.querySelector('.carousel-image');
-      taskList.appendChild(li);
-});
