@@ -18,14 +18,4 @@ export default function decorate(block) {
     buttons.append(button);
   });
   block.parentElement.append(buttons);
-  const li = document.createElement('div');
-      const taskList = document.querySelector('.carousel-image');
-      taskList.appendChild(li);
-  addBlock();
-}
-
-function addBlock(){
-      const li = document.createElement('div');
-      const taskList = document.querySelector('.carousel-image');
-      taskList.appendChild(li);
 }
