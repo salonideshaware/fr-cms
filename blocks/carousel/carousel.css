@@ -150,3 +150,17 @@ main .carousel-image img {
     display: flex;
     text-align: center;
 }
+
+.columns.cmp-singlecard.block.columns-1-cols {
+    padding: 75px 75px 0 75px;
+    background: #e5f5ff
+}
+
+h2#loan-calculator {
+    text-align: left;
+}
+
+.cmp-singlecard div {
+    background: #fff;
+    padding: 0 50px 0 50px;
+}
