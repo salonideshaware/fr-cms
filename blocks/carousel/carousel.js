@@ -19,3 +19,5 @@ export default function decorate(block) {
   });
   block.parentElement.append(buttons);
 }
+
+$('.carousel.quickflash-card.block div div p:first-child').appendChild(node);
