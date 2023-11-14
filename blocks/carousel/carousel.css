@@ -139,3 +139,8 @@ main .carousel-image img {
 .columns.cmp-datacardlist.info-channel > div > div{
     background: #e5f5ff !important;
 }
+
+.carousel-columns.quickinfo-card.block img {
+    width: 200px;
+    height: 200px;
+}
