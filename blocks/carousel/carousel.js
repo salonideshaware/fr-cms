@@ -19,3 +19,11 @@ export default function decorate(block) {
   });
   block.parentElement.append(buttons);
 }
+
+addBlock();
+
+function addBlock(){
+      const li = document.createElement('div');
+      const taskList = document.querySelector('.carousel-image');
+      taskList.appendChild(li);
+}
