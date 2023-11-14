@@ -164,3 +164,8 @@ h2#loan-calculator {
     background: #fff;
     padding: 0 50px 0 50px;
 }
+
+.columns.cmp-singlecard.block.columns-1-cols {
+    padding: 75px 75px 75px 75px;
+    background: #e5f5ff;
+}
