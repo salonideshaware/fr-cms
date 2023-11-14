@@ -169,3 +169,14 @@ h2#loan-calculator {
     padding: 75px 75px 75px 75px;
     background: #e5f5ff;
 }
+
+.quickflash-card p:first-child {
+    font-size: 24px;
+    color: #2e2e2e;
+    font-weight: 800;
+    margin-bottom: 12px;
+}
+
+.quickflash-card p:last-child {
+    font-size: 18px !important;
+}
