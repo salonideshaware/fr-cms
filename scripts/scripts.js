@@ -140,5 +140,3 @@ function addBlock(){
       const taskList = document.querySelector('.carousel-image');
       taskList.appendChild(li);
 }
-
-addBlock();
