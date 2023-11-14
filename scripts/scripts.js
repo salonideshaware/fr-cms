@@ -67,7 +67,6 @@ export function decorateMain(main) {
   buildAutoBlocks(main);
   decorateSections(main);
   decorateBlocks(main);
-  addBlock();
 }
 
 /**
@@ -134,9 +133,3 @@ async function loadPage() {
 }
 
 loadPage();
-
-function addBlock(){
-      const li = document.createElement('div');
-      const taskList = document.querySelector('.carousel-image');
-      taskList.appendChild(li);
-}
