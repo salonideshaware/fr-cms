@@ -19,11 +19,3 @@ export default function decorate(block) {
   });
   block.parentElement.append(buttons);
 }
-
-  function insertAfter(referenceNode, newNode) {
-        referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
-      }
-      let elem = document.createElement("span");
-      elem.innerHTML = "It's a Javascript book";
-      let div = document.getElementById("divId");
-      insertAfter(div, elem);
