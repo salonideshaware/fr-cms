@@ -20,10 +20,8 @@ export default function decorate(block) {
   block.parentElement.append(buttons);
 }
 
-addBlock();
-
-function addBlock(){
+document.addEventListener('DOMContentLoaded', () => {
       const li = document.createElement('div');
       const taskList = document.querySelector('.carousel-image');
       taskList.appendChild(li);
-}
+});
