@@ -117,3 +117,7 @@ main .carousel-image img {
 .carousel.quickflash-card.block div {
     width: 50%;
 }
+
+.carousel-wrapper {
+    background: transparent linear-gradient(180deg, #F6F6F6 0%, #E5F5FF 100%);
+}
