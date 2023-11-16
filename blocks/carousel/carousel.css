@@ -261,4 +261,14 @@ h1#explore-investment-products-and-services {
 .cmp-datacardlist p:last-child {
     font-size: 18px;
 }
+
+  .carousel.quickflash-card.block div {
+    width: 80%;
+}
+
+  .carousel.quickflash-card.block div {
+    width: 500px;
+    margin: 10px;
+    padding: 20px 20px 40px 20px;
+}
 }
