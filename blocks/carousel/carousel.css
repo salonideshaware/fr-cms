@@ -238,7 +238,7 @@ h2#loan-calculator {
    font-size: 18px;
 }
 
- .cmp-singlecard h2#loan-calculator {
+.cmp-singlecard h2#loan-calculator {
     font-size: 24px;
 }
 
@@ -246,11 +246,19 @@ h2#loan-calculator {
     font-size: 18px;
 }
 
-  h1#explore-investment-products-and-services {
+h1#explore-investment-products-and-services {
     font-size: 40px;
 }
 
-  .cards.custom-cards.block {
+.cards.custom-cards.block {
     padding: 0 40px 40px 40px;
+}
+
+.cards.custom-cards.block {
+    padding: 0 40px 40px 40px;
+}
+
+.cmp-datacardlist p:last-child {
+    font-size: 18px;
 }
 }
