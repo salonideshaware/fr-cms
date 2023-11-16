@@ -199,6 +199,10 @@ h2#loan-calculator {
 }
 
 @media(max-width: 700px){
+  .carousel-text {
+    width: 100%;
+}
+  
 .carousel-text h2, .carousel-image h2 {
     font-size: 32px;
 }
