@@ -278,4 +278,8 @@ h1#explore-investment-products-and-services {
   .contact-link p:nth-child(2){
     font-size: 16px;
 }
+  .columns.footer-block p {
+    text-align: justify;
+    padding-right: 30px;
+}
 }
