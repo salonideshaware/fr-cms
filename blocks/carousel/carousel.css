@@ -3,8 +3,8 @@ main .carousel-container {
 }
 
 a {
-    background: #0072d8;
-    border-radius: 10px;
+    background: #0072d8 !important;
+    border-radius: 10px !important;
 }
 
 main .carousel {
