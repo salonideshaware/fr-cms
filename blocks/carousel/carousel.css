@@ -2,7 +2,7 @@ main .carousel-container {
   padding: 0;
 }
 
-a.button {
+a {
     background: #0072d8;
     border-radius: 10px;
 }
