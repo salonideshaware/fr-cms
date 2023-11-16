@@ -286,4 +286,8 @@ h1#explore-investment-products-and-services {
     text-align: justify;
     padding-right: 30px;
 }
+
+  carousel-columns.quickinfo-card.block {
+    display: inline-block;
+}
 }
