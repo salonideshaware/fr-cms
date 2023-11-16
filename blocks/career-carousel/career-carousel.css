@@ -180,3 +180,7 @@
       display: flex;
     }
   }
+
+.carousel-text p, .carousel-image p {
+    color: #fff;
+}
