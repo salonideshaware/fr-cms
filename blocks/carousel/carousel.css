@@ -271,4 +271,14 @@ h1#explore-investment-products-and-services {
     margin: 10px;
     padding: 20px 20px 40px 20px;
 }
+
+ .cards.custom-cards.block {
+    padding: 0 15px 65px 15px;
+}
+  .contact-link p {
+    font-size: 16px;
+}
+  .contact-link p:nth-child(2){
+    font-size: 16px;
+}
 }
