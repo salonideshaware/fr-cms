@@ -3,7 +3,7 @@ main .carousel-container {
 }
 
 .nav-sections a:any-link {
-    background: none;
+    background: none !important;
 }
 
 a {
