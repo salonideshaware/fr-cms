@@ -193,3 +193,13 @@
     background: #0072d8;
 }
 
+@media(max-width: 700px){
+.carousel-text h2 {
+    font-size: 32px;
+}
+
+.carousel-text h2:last-child {
+    font-size: 16px;
+}
+}
+
