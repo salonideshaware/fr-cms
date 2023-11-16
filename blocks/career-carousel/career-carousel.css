@@ -181,6 +181,10 @@
     }
   }
 
-.carousel-text p, .carousel-image p {
+.carousel-text p:hover, .carousel-image p:hover {
     color: #fff;
+}
+
+.quickflash-card .carousel-image: hover, .quickflash-card .carousel-text: hover {
+    background: #0072d8;
 }
