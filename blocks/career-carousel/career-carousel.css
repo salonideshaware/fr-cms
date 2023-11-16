@@ -188,3 +188,8 @@
 .quickflash-card:hover .carousel-image, .quickflash-card:hover .carousel-text {
     background: #0072d8;
 }
+
+.quickflash-card:active .carousel-image, .quickflash-card:active .carousel-text {
+    background: #0072d8;
+}
+
