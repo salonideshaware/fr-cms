@@ -198,7 +198,21 @@ h2#loan-calculator {
     background: #0072d8;
 }
 
+.cmp-singlecard a.button {
+    background: #0072d8;
+    border-radius: 10px;
+}
+
+.custom-cards a{
+  background: #0072d8;
+  border-radius: 10px;
+}
+
 @media(max-width: 700px){
+  .custom-cards a {
+    font-size: 16px;
+}
+  
   .carousel-text {
     width: 100%;
 }
@@ -209,5 +223,34 @@ h2#loan-calculator {
 
 .carousel-text h2:last-child, .carousel-image h2:last-child {
     font-size: 16px;
+}
+
+.cmp-singlecard div {
+    background: #fff;
+    padding: 0 10px 0 10px;
+}
+
+h2#loan-calculator {
+   font-size: 18px;
+}
+
+.cmp-singlecard p {
+   font-size: 18px;
+}
+
+ .cmp-singlecard h2#loan-calculator {
+    font-size: 24px;
+}
+
+.cmp-singlecard a.button {
+    font-size: 18px;
+}
+
+  h1#explore-investment-products-and-services {
+    font-size: 40px;
+}
+
+  .cards.custom-cards.block {
+    padding: 0 40px 40px 40px;
 }
 }
