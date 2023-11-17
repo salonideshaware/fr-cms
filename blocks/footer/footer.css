@@ -1,5 +1,4 @@
 footer {
-  padding: 2rem;
   background-color: #0072d8;
   color: #fff;
 }
@@ -58,6 +57,15 @@ footer .footer-block {
 
 .footer-blk2 {
     font-size: 12px;
+}
+
+hr.separator {
+    display: none;
+}
+
+.footer-section {
+    justify-content: center;
+    display: grid;
 }
 
 @media(max-width: 700px){
