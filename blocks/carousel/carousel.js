@@ -23,7 +23,10 @@ export default function decorate(block) {
       const taskList = document.querySelector('.carousel-image');
       taskList.appendChild(li);
       var i = 1;
-      taskList.setAttribute('id',i);
+      console.log('i',i);
+      let idChk = 'info' + i;
+      console.log('idChk',idChk);
+      taskList.setAttribute('id',idChk);
       i++;
 });
 }
