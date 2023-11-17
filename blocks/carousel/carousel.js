@@ -22,5 +22,8 @@ export default function decorate(block) {
       const li = document.createElement('div');
       const taskList = document.querySelector('.carousel-image');
       taskList.appendChild(li);
+      var i = 1;
+      taskList.setAttribute('id','info' + i);
+      i++;
 });
 }
