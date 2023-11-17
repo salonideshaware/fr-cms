@@ -46,8 +46,15 @@ footer .footer-block {
     flex: auto !important;
 }
 
+@media(max-width: 700px){
 .semibold {
     font-size: 16px;
     padding: 10px 10px 5px 20px;
     font-weight: 600;
+}
+
+.footer-blk2 {
+    font-size: 12px;
+    padding: 10px 20px 10px 20px;
+}
 }
