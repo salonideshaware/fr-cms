@@ -77,6 +77,12 @@ div#footer-end {
     padding-left: 40px;
 }
 
+.footer-blk a {
+    background: none !important;
+    color: #fff;
+    text-decoration: none;
+}
+
 @media(max-width: 700px){
 .semibold {
     font-size: 16px;
