@@ -23,6 +23,13 @@ export default async function decorate(block) {
     block.append(footer);
     const copyright = document.createElement('div');
     copyright.setAttribute('id', 'footer-end');
+    copyright.setAttribute('class', 'copyright');
+    var sec1 = document.createElement("div");
+    var sec2 = document.createElement("div");
+    var sec3 = document.createElement("div");
+    document.getElementById("footer-end").appendChild(sec1);
+    document.getElementById("footer-end").appendChild(sec2);
+    document.getElementById("footer-end").appendChild(sec3);
     decorateIcons(copyright);
     block.append(copyright);
   }
