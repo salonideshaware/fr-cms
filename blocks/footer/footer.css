@@ -73,6 +73,10 @@ div#footer-end {
     padding: 16px 0;
 }
 
+.columns.footer-block div {
+    padding-left: 40px;
+}
+
 @media(max-width: 700px){
 .semibold {
     font-size: 16px;
